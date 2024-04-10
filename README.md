@@ -1,6 +1,6 @@
 **Movie Recommendation System**
 
-This Python script is a simple movie recommendation system built using Streamlit, a web application framework for creating data-driven web applications.
+This Python script is a Content Based Movie Recommendation System built using Streamlit, a web application framework for creating data-driven web applications.
 
 **How it works:**
 
@@ -23,6 +23,10 @@ This Python script is a simple movie recommendation system built using Streamlit
 3. Select a movie from the dropdown menu.
 
 4. Click the "Recommend" button to see the top 5 recommended movies.
+
+**Tools**
+- Python 3.4 or higher installed
+- Jupyter notebook
 
 **Note:**
 
